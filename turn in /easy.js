@@ -23,7 +23,9 @@ function splitOddAndEven(numbers) {
 
 console.log(splitOddAndEven([2, 4, 7, 11, 15, 16]))
 
-//easy 2: yoana solved
+//easy 2: YOANA solved
+let numberArray = [10,18,19,29,33, 35, 47, 66, 83]
+
 
 /*Create a function that accepts two strings, then determines whether or not the first string is an anagram of the
 second string by returning a boolean.
