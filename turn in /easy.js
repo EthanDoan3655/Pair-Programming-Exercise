@@ -46,3 +46,4 @@ function Compare(str1, str2) {
 console.log(Compare("SoDarkTheConOfMan", "MadonnaOfTheRocks"))
 console.log(Compare("Things are good", "Dogs eat ants"))
 //couldn't figure out how to make the spaces not count as characters
+//hello
